@@ -8,14 +8,14 @@ uses the exact same names as known from LaTeX's AMSmath. Just enter a the name o
 Examples
 --------
 
-| Entered Text | Result | Comment                          |
-| :----------- | :----: | :------------------------------- |
-| tau<tab>     |   τ    |                                  |
-| varphi<tab>  |   φ    |                                  |
-| phi<tab>     |   ϕ    |                                  |
-| epsilon<tab> |   ε    |                                  |
-| eps<tab>     |   ε    | you can use abbreviation as well |
-| vt<tab>      |   ϑ    | … and again                      |
+| Entered Text   |  Result  | Comment                          |
+| :------------- | :------: | :------------------------------- |
+| `tau<tab>`     |   `τ`    |                                  |
+| `varphi<tab>`  |   `φ`    |                                  |
+| `phi<tab>`     |   `ϕ`    |                                  |
+| `epsilon<tab>` |   `ε`    |                                  |
+| `eps<tab>`     |   `ε`    | you can use abbreviation as well |
+| `vt<tab>`      |   `ϑ`    | … and again                      |
 
 
 Installation
